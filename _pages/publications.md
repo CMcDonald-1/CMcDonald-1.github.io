@@ -36,5 +36,9 @@ In my recent work in my PhD, I have continued in the vein of stochastic processe
 
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. (2018) *Two-Way Gaussian Channels with an Intelligent Jammer*. 2018 Annual American Control Conference (ACC). pp. 1784- 1789. [Link](https://ieeexplore.ieee.org/document/8430803)
 
+## Dissertations
+
+* ***Mcdonald, Curtis James***.*Filter Stability, Observability and Robustness for Partially Observed Stochastic Dynamical Systems*. Diss. Queen's University (Canada), 2019. [Link](https://qspace.library.queensu.ca/handle/1974/26466)
+
 
 
