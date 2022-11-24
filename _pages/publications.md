@@ -38,7 +38,7 @@ In my recent work in my PhD, I have continued in the vein of stochastic processe
 
 ## Dissertations
 
-* ***Mcdonald, Curtis James***.*Filter Stability, Observability and Robustness for Partially Observed Stochastic Dynamical Systems*. Diss. Queen's University (Canada), 2019. [Link](https://qspace.library.queensu.ca/handle/1974/26466)
+* ***Mcdonald, Curtis James***. *Filter Stability, Observability and Robustness for Partially Observed Stochastic Dynamical Systems*. Diss. Queen's University (Canada), 2019. [Link](https://qspace.library.queensu.ca/handle/1974/26466)
 
 
 
