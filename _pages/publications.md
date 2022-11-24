@@ -16,7 +16,7 @@ In my recent work in my PhD, I have continued in the vein of stochastic processe
 * ***McDonald, C.***, Barron, A. *Proposal of a Score Based Approach to Sampling Using Monte Carlo Estimation of Score and Oracle Access to Target Density*. NeurIPS
 2022 Conference Workshop on Score Based Methods (Poster).
 
-* ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. Siam Journal on Control and Optimization. vol 60, issue 22 . April 2022. (https://epubs.siam.org/doi/abs/10.1137/21M1417442)
+* ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. Siam Journal on Control and Optimization. vol 60, issue 22 . April 2022. [Link](https://epubs.siam.org/doi/abs/10.1137/21M1417442)
 
 ### 2020
 
