@@ -18,7 +18,7 @@ More recently, I am interested in mixing time guarantees of sampling approaches 
 
 I received my undergraduate degree in Applied Mathematics and Engineering from Queen’s University in 2017, and my Master’s in Applied Science from Queen’s University in 2019. In 2019 I moved to New Haven, CT where I am currently pursuing my PhD at Yale University. 
 
-For more information, please see my [publications page](https://cmcdonald-1.github.io/publications/), [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2022.pdf), or [LinkedIN profile](https://cmcdonald-1.github.io/assets/pdf/CV_2022.pdf).
+For more information, please see my [Publications](https://cmcdonald-1.github.io/publications/) page, [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2022.pdf), or [LinkedIN](https://cmcdonald-1.github.io/assets/pdf/CV_2022.pdf) profile.
 
 # Upcoming News
 
