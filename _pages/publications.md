@@ -1,16 +1,25 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+This page contains a list of my publications.
 
-{% include base_path %}
+## Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 2022
+
+
+### 2021
+
+### 2020
+
+
+### 2019
+
+
+### 2018
+
+
+
