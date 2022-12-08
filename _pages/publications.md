@@ -18,7 +18,7 @@ I have also had the opportunity to collaborate on several natural language proce
 ### 2022
 
 * ***McDonald, C.***, Barron, A. *Proposal of a Score Based Approach to Sampling Using Monte Carlo Estimation of Score and Oracle Access to Target Density*. NeurIPS
-2022 Conference Workshop on Score Based Methods (Poster).
+2022 Conference Workshop on Score Based Methods (Poster). [Link](https://arxiv.org/abs/2212.03325)
 
 * ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control (to appear). December 2022. [Link](https://arxiv.org/abs/1812.01772)
 
