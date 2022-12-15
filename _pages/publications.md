@@ -10,7 +10,7 @@ This page contains a list of my publications. My early work focused on stochasti
 
 In my recent work in my PhD, I have continued in the vein of stochastic processes, but I am now more interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. Namely, can we sample weights proportional to the exponential of the negative loss function, thus producing weights with low loss with high probability. This converts a non-convex optimization problem into a non-log concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. Recent advances in score based approaches to sampling have shown much success as a generative model in high dimensions, and in my most recent NeurIPS workshop paper I explore how such success can be transferred to sampling a given density function.
 
-I have also had the opportunity to collaborate on several natural language processing projects with colleagues in social science. Using sentiment analysis and topic modeling, we analysed the text in large sets of social media posts to gauge user civility in conversations and response to COVID vaccine information.
+I have also had the opportunity to collaborate on several natural language processing projects with colleagues in social science. Using sentiment analysis and topic modeling, we analysed the text in large collections of social media posts to gauge user civility in conversations as well as response to COVID-19 vaccine information.
 
 
 ## Publications
