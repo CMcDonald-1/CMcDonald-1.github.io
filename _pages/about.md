@@ -22,9 +22,5 @@ For more information, please see my [Publications](https://cmcdonald-1.github.io
 
 # Upcoming News
 
-* I will be presenting a poster at the Score Based Methods Workshop at NeurIPS 2022 in December titled *"Proposal of a Score Based Approach to Sampling Using Monte Carlo Estimation of Score and Oracle Access to Target Density"*. This work represents an extension on score based methods from generative modeling to posterior sampling.
-
-* In the upcoming summer of 2023, I am interested in working on a summer internship with a technology company revolving around sampling problems, generative models, or stochastic processes and deep networks. If you would like to contact me, please reach out at curtis.mcdonald@yale.edu.
-
 
 
