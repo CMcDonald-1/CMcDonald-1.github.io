@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am currently a 4th year PhD Student in the Statistics and Data Science Department at Yale University. I work with my advisor Andrew Barron on topics related to sampling problems, greedy optimization of neural networks, and Markov Chain Monte Carlo (MCMC).
+I am entering my 5th year as a PhD Student in the Statistics and Data Science Department at Yale University. I work with my advisor Andrew Barron on topics related to sampling problems, greedy optimization of neural networks, and Markov Chain Monte Carlo (MCMC).
 
 The main theme of my research from my Master’s education into my PhD has been the convergence behaviour of stochastic processes. In my initial research, this focused on filter stability for Hidden Markov Models (HMM) and applications to robust stochastic control. Namely, given a bad prior can an agent still learn an accurate posterior on the hidden state of the system and then use this to make good control decisions.
 
