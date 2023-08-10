@@ -22,5 +22,7 @@ For more information, please see my [Publications](https://cmcdonald-1.github.io
 
 # Upcoming News
 
+* I will be graduating in May 2024 and will be on the academic job market for positions begining September 2024. I am interested in post doc positions involving reseach in statistical learning theory, sampling methods, diffusion models, and Bayesian statistics.
+
 
 
