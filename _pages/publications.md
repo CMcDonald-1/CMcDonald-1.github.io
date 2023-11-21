@@ -15,19 +15,17 @@ I have also had the opportunity to collaborate on several natural language proce
 
 ## Publications
 
-## Sampling Methods
+## Journal Articles
 
 ### 2022
 
-* ***McDonald, C.***, Barron, A. *Proposal of a Score Based Approach to Sampling Using Monte Carlo Estimation of Score and Oracle Access to Target Density*. NeurIPS
-2022 Conference Workshop on Score Based Methods (Poster). [Link](https://arxiv.org/abs/2212.03325)
+* ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control (2023). [Link](https://ieeexplore.ieee.org/document/10209206)
 
-## Filter Stability and Stochastic Control
-
-### 2022
-* ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control (to appear). December 2022. [Link](https://arxiv.org/abs/1812.01772)
+* Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
 
 * ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. Siam Journal on Control and Optimization. vol 60, issue 22 . April 2022. [Link](https://epubs.siam.org/doi/abs/10.1137/21M1417442)
+
+* Kumar, N., Corpus, I., Hans, M., ***McDonald, C.***, et al. *COVID-19 vaccine perceptions in the initial phases of US vaccine roll-out: an observational study on reddit*. BMC Public Health. vol 22, issue 1, March 2022. [Link](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12824-7)
 
 ### 2020
 
@@ -35,6 +33,12 @@ I have also had the opportunity to collaborate on several natural language proce
 
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. *Two-Way Gaussian Networks with a Jammer and Decentralized Control*. IEEE Transactions on Control of Network Systems. vol. 7, no. 1, pp. 446-457, March 2020. [Link](https://ieeexplore.ieee.org/document/8737761)
 
+## Conference Papers
+
+### 2022
+
+* ***McDonald, C.***, Barron, A. *Proposal of a Score Based Approach to Sampling Using Monte Carlo Estimation of Score and Oracle Access to Target Density*. NeurIPS
+2022 Conference Workshop on Score Based Methods (Poster). [Link](https://arxiv.org/abs/2212.03325)
 
 ### 2019
 
@@ -46,15 +50,6 @@ I have also had the opportunity to collaborate on several natural language proce
 * ***McDonald, C.***, Yuksel, S. (2018) *Stability of Non-Linear Filters, Observability and Relative Entropy*. 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton). pp 110 - 114. [Link](https://proceedings.allerton.csl.illinois.edu/2018/)
 
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. (2018) *Two-Way Gaussian Channels with an Intelligent Jammer*. 2018 Annual American Control Conference (ACC). pp. 1784- 1789. [Link](https://ieeexplore.ieee.org/document/8430803)
-
-
-## Data Science Applications
-
-### 2022
-
-* Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
-
-* Kumar, N., Corpus, I., Hans, M., ***McDonald, C.***, et al. *COVID-19 vaccine perceptions in the initial phases of US vaccine roll-out: an observational study on reddit*. BMC Public Health. vol 22, issue 1, March 2022. [Link](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12824-7)
 
 ## Dissertations
 
