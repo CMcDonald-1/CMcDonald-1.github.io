@@ -38,7 +38,7 @@ I have also had the opportunity to collaborate on several natural language proce
 ### 2022
 
 * ***McDonald, C.***, Barron, A. *Proposal of a Score Based Approach to Sampling Using Monte Carlo Estimation of Score and Oracle Access to Target Density*. NeurIPS
-2022 Conference Workshop on Score Based Methods (Poster). [Link](https://arxiv.org/abs/2212.03325)
+2022 Conference Workshop on Score Based Methods (Poster). [Link](https://openreview.net/forum?id=ez2cB__DaTV)
 
 ### 2019
 
@@ -50,6 +50,9 @@ I have also had the opportunity to collaborate on several natural language proce
 * ***McDonald, C.***, Yuksel, S. (2018) *Stability of Non-Linear Filters, Observability and Relative Entropy*. 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton). pp 110 - 114. [Link](https://proceedings.allerton.csl.illinois.edu/2018/)
 
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. (2018) *Two-Way Gaussian Channels with an Intelligent Jammer*. 2018 Annual American Control Conference (ACC). pp. 1784- 1789. [Link](https://ieeexplore.ieee.org/document/8430803)
+
+## Data Science Applications
+
 
 ## Dissertations
 
