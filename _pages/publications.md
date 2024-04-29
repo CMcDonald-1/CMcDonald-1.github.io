@@ -17,7 +17,7 @@ I have also had the opportunity to collaborate on several natural language proce
 
 ### Journal Articles
 
-* ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control (2023). [Link](https://ieeexplore.ieee.org/document/10209206) 
+* ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control. vol. 69, no. 5, pp. 2931-2946, May 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10209206) 
 
 * ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. Siam Journal on Control and Optimization. vol 60, issue 22 . April 2022. [Link](https://epubs.siam.org/doi/abs/10.1137/21M1417442)
 
