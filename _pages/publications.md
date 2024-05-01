@@ -10,7 +10,7 @@ This page contains a list of my publications. My early work focused on stochasti
 
 In my recent work in my PhD, I have continued in the vein of stochastic processes, but I am now more interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. Namely, can we sample weights proportional to the exponential of the negative loss function, thus producing weights with low loss with high probability. This converts a non-convex optimization problem into a non-log concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. Recent advances in score based approaches to sampling have shown much success as a generative model in high dimensions, and in my most recent NeurIPS workshop paper I explore how such success can be transferred to sampling a given density function.
 
-I have also had the opportunity to collaborate on several natural language processing projects with colleagues in social science. Using sentiment analysis and topic modeling, we analysed the text in large collections of social media posts to gauge user civility in conversations as well as response to COVID-19 vaccine information.
+I have also had the opportunity to collaborate on several data science projects. The first project is a natural language processing projects with colleagues in social science. Using sentiment analysis and topic modeling, we analysed the text in large collections of social media posts to gauge user civility in conversations as well as response to COVID-19 vaccine information. Secondly, data analysis for orthopedic knee surgery research.
 
 
 ## Publications
@@ -37,6 +37,8 @@ I have also had the opportunity to collaborate on several natural language proce
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. (2018) *Two-Way Gaussian Channels with an Intelligent Jammer*. 2018 Annual American Control Conference (ACC). pp. 1784- 1789. [Link](https://ieeexplore.ieee.org/document/8430803)
 
 ### Data Science Applications
+
+* Beitler, B., Sieberer, J., Islam, W., ***McDonald, C.***, Yu, K., Tommasini, S., Fulkerson, J. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0749806324003086)
 
 * Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
 
