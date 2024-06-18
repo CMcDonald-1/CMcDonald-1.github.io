@@ -27,6 +27,8 @@ I have also had the opportunity to collaborate on several data science projects.
 
 ### Conference Papers
 
+* ***McDonald, C.***, Barron, A. (2024). *Log-Concave Coupling for Sampling Neural Net Posteriors*. 2024 IEEE International Symposium on Information Theory (ISIT). (To Appear).
+
 * ***McDonald, C.***, Barron, A. (2022) *Proposal of a Score Based Approach to Sampling Using Monte Carlo Estimation of Score and Oracle Access to Target Density*. NeurIPS
 2022 Conference Workshop on Score Based Methods. [Link](https://openreview.net/forum?id=ez2cB__DaTV)
 
