@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-   url: /assets/pdf/CV_2023_academic.pdf  
+    url: /assets/pdf/CV_2023_academic.pdf  
 
   #- title: "Teaching"
   # url: /teaching/    
