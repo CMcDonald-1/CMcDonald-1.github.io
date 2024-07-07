@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /assets/pdf/test_pres_ISIT.pdf  
+  #- title: "Talks"
+  #  url: /assets/pdf/test_pres_ISIT.pdf  
 
   #- title: "Teaching"
   # url: /teaching/    
