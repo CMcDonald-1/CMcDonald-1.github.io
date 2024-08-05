@@ -8,6 +8,4 @@ date: 2024-07-11
 location: "Athens, Greece"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-
-Slideshow: [More information here](/assets/pdf/test_pres_ISIT.pdf)
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown! Slideshow: [More information here](/assets/pdf/test_pres_ISIT.pdf)
