@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am entering my 5th year as a PhD Student in the Statistics and Data Science Department at Yale University. I work with my advisor Andrew Barron on topics related to sampling problems, greedy optimization of neural networks, and Markov Chain Monte Carlo (MCMC).
+I am entering my 6th year as a PhD Student in the Statistics and Data Science Department at Yale University. I work with my advisor Andrew Barron on topics related to sampling problems, greedy optimization of neural networks, and Markov Chain Monte Carlo (MCMC).
 
 The main theme of my research from my Master’s education into my PhD has been the convergence behaviour of stochastic processes. In my initial research, this focused on filter stability for Hidden Markov Models (HMM) and applications to robust stochastic control. Namely, given a bad prior can an agent still learn an accurate posterior on the hidden state of the system and then use this to make good control decisions.
 
@@ -22,7 +22,8 @@ For more information, please see my [Publications](https://cmcdonald-1.github.io
 
 # Upcoming News
 
-* I will be graduating in May 2024 and will be on the academic job market for positions beginning September 2024. I am interested in post doc positions involving research in statistical learning theory, sampling methods, diffusion models, and Bayesian statistics.
+* I will be graduating in May 2025 and will be on the academic job market for positions beginning September 2024. I am interested in post doc positions involving research in statistical learning theory, sampling methods, diffusion models, and Bayesian statistics.
+* I recently presented my latest research at the 2024 International Symposium on Information Theory in Athens Greece which can be found [here](https://arxiv.org/abs/2407.18802).
 
 
 
