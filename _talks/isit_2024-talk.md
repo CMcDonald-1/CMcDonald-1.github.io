@@ -1,4 +1,3 @@
-
 ---
 title: "Log-Concave Coupling for Sampling Neural Net Posteriors"
 collection: talks
