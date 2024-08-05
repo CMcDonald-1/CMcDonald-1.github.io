@@ -4,7 +4,6 @@ main:
     url: /publications/
 
   - title: "Talks"
-    #url: /assets/pdf/test_pres_ISIT.pdf
     url: /talks/
 
   #- title: "Teaching"
