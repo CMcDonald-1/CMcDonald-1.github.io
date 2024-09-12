@@ -40,6 +40,8 @@ I have also had the opportunity to collaborate on several data science projects.
 
 ### Data Science Applications
 
+*  Sieberer, J., ***McDonald, C.***, Fulkerson, J., et al. *Visualization of Trochlear Dysplasia using Three-Dimensional Curvature Analysis in Patellar Instability Facilitates Understanding and Improves the Reliability of the Entry-Point to Trochlea Groove Angle*. Arthroscopy, Sports Medicine, Rehabilitation (ASMAR). Sept, 2024. (To Appear)
+
 * Beitler, B., Sieberer, J., Islam, W., ***McDonald, C.***, Yu, K., Tommasini, S., Fulkerson, J. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0749806324003086)
 
 * Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
