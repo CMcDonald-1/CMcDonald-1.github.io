@@ -40,13 +40,15 @@ I have also had the opportunity to collaborate on several data science projects.
 
 ### Data Science Applications
 
-*  Sieberer, J., ***McDonald, C.***, Fulkerson, J., et al. *Visualization of Trochlear Dysplasia using Three-Dimensional Curvature Analysis in Patellar Instability Facilitates Understanding and Improves the Reliability of the Entry-Point to Trochlea Groove Angle*. Arthroscopy, Sports Medicine, Rehabilitation (ASMAR). Sept, 2024. (To Appear)
+* Siberer, J., ***McDonald, C.***, et al . *Analyzing Alignment Error in Tibial Tuberosity–Trochlear Groove Distance in Clinical Scans Using 2D and 3D Methods*. The American Journal of Sports Medicine. Sept, 2024. [Link](https://journals.sagepub.com/doi/10.1177/03635465241279852)
 
-* Beitler, B., Sieberer, J., Islam, W., ***McDonald, C.***, Yu, K., Tommasini, S., Fulkerson, J. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0749806324003086)
+*  Sieberer, J., ***McDonald, C.***, et al. *Visualization of Trochlear Dysplasia using Three-Dimensional Curvature Analysis in Patellar Instability Facilitates Understanding and Improves the Reliability of the Entry-Point to Trochlea Groove Angle*. Arthroscopy, Sports Medicine, Rehabilitation (ASMAR). Sept, 2024. [Link](https://www.arthroscopysportsmedicineandrehabilitation.org/article/S2666-061X(24)00147-0/fulltext)
 
-* Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
+* Beitler, B.,***McDonald, C.***, et al. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0749806324003086)
 
-* Kumar, N., Corpus, I., Hans, M., ***McDonald, C.***, et al. *COVID-19 vaccine perceptions in the initial phases of US vaccine roll-out: an observational study on reddit*. BMC Public Health. vol 22, issue 1, March 2022. [Link](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12824-7)
+* Kim, J., ***McDonald, C.***, et al. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
+
+* Kumar, N., ***McDonald, C.***, et al. *COVID-19 vaccine perceptions in the initial phases of US vaccine roll-out: an observational study on reddit*. BMC Public Health. vol 22, issue 1, March 2022. [Link](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12824-7)
 
 ### Dissertations
 
