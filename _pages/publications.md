@@ -15,6 +15,10 @@ I have also had the opportunity to collaborate on several data science projects.
 
 ## Publications
 
+### Preprints
+
+* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions*. November, 2024. [Link]
+
 ### Journal Articles
 
 * ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control. vol. 69, no. 5, pp. 2931-2946, May 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10209206) 
@@ -40,15 +44,16 @@ I have also had the opportunity to collaborate on several data science projects.
 
 ### Data Science Applications
 
-* Siberer, J., ***McDonald, C.***, et al . *Analyzing Alignment Error in Tibial Tuberosity–Trochlear Groove Distance in Clinical Scans Using 2D and 3D Methods*. The American Journal of Sports Medicine. Sept, 2024. [Link](https://journals.sagepub.com/doi/10.1177/03635465241279852)
+* Sieberer J. M., Park N., Manafzadeh A. R., Desroches S. T., Brennan K., ***McDonald C.***, Tommasini S. M., Wiznia D. H., Fulkerson J. P. *Visualization of Trochlear Dysplasia Using 3-Dimensional Curvature Analysis in Patients With Patellar Instability Facilitates Understanding and Improves the Reliability of the Entry Point to Trochlea Groove Angle*. Arthroscopy, Sports Medicine, and Rehabilitation. September, 2024.[Link](https://www.sciencedirect.com/science/article/pii/S2666061X24001470)
 
-*  Sieberer, J., ***McDonald, C.***, et al. *Visualization of Trochlear Dysplasia using Three-Dimensional Curvature Analysis in Patellar Instability Facilitates Understanding and Improves the Reliability of the Entry-Point to Trochlea Groove Angle*. Arthroscopy, Sports Medicine, Rehabilitation (ASMAR). Sept, 2024. [Link](https://www.arthroscopysportsmedicineandrehabilitation.org/article/S2666-061X(24)00147-0/fulltext)
+* Sieberer J. M., Park N., Rancu A. L., Desroches S. T., ***McDonald C.***, Manafzadeh A. R., Tommasini S. M., Wiznia D. H., Fulkerson J. P. *Analyzing Alignment Error in Tibial Tuberosity–Trochlear Groove Distance in Clinical Scans Using 2D and 3D Methods*. The American Journal of Sports Medicine. September, 2024. [Link](https://journals.sagepub.com/doi/abs/10.1177/03635465241279852) 
 
-* Beitler, B.,***McDonald, C.***, et al. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0749806324003086)
+* Beitler B. G., Sieberer J., Islam W., ***{McDonald C.***, Yu K., Tommasini S. M., Fulkerson J. P. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S074980632400308)
 
-* Kim, J., ***McDonald, C.***, et al. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
 
-* Kumar, N., ***McDonald, C.***, et al. *COVID-19 vaccine perceptions in the initial phases of US vaccine roll-out: an observational study on reddit*. BMC Public Health. vol 22, issue 1, March 2022. [Link](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12824-7)
+* Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
+
+* Kumar N., Corpus I., Hans M., Harle N., Yang N., ***McDonald C.***, Nakamura Sakai S., Janmohamed K., Chen K., Altice F. L., Tang W., Schwartz J. L., Jones-Jang S. M., Saha K., Memon S. A., Bauch C. T., Choudhury M. D., Papakyriakopoulos O., Tucker J. D., Goyal A., Tyagi A., Khoshnood K., Omer S. *COVID-19 vaccine perceptions in the initial phases of US vaccine roll-out: an observational study on reddit*. BMC Public Health. vol 22, issue 1, March 2022. [Link](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12824-7)
 
 ### Dissertations
 
