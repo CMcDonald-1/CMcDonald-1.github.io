@@ -48,7 +48,7 @@ I have also had the opportunity to collaborate on several data science projects.
 
 * Sieberer J. M., Park N., Rancu A. L., Desroches S. T., ***McDonald C.***, Manafzadeh A. R., Tommasini S. M., Wiznia D. H., Fulkerson J. P. *Analyzing Alignment Error in Tibial Tuberosity–Trochlear Groove Distance in Clinical Scans Using 2D and 3D Methods*. The American Journal of Sports Medicine. September, 2024. [Link](https://journals.sagepub.com/doi/abs/10.1177/03635465241279852) 
 
-* Beitler B. G., Sieberer J., Islam W., ***{McDonald C.***, Yu K., Tommasini S. M., Fulkerson J. P. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S074980632400308)
+* Beitler B. G., Sieberer J., Islam W., ***McDonald C.***, Yu K., Tommasini S. M., Fulkerson J. P. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S074980632400308)
 
 
 * Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
