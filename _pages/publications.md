@@ -17,7 +17,7 @@ I have also had the opportunity to collaborate on several data science projects.
 
 ### Preprints
 
-* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions*. November, 2024. [Link]
+* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions*. November, 2024. [Link](https://arxiv.org/abs/2411.17667)
 
 ### Journal Articles
 
