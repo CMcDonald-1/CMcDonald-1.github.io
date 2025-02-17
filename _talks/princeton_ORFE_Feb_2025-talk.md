@@ -6,6 +6,7 @@ permalink: /talks/princeton_ORFE_Feb_2025
 venue: "Princeton Univeristy, ORFE Department"
 date: 2025-02-18
 location: "Princeton, New Jersey"
+authors: "Curtis McDonald, Andrew R. Barron"
 ---
 
 In Depth Document: [More information here](/assets/pdf/McDonald_Barron_Log_Concave_MSL_submission.pdf)
