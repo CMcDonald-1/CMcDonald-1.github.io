@@ -8,4 +8,4 @@ date: 2025-02-18
 location: "Princeton, New Jersey"
 ---
 
-In Depth Document: [More information here](/assets/pdf/McDonald_Barron_Log_Concave_MSL_submission.pdf)
+In Depth Document: [More information here](/assets/pdf/McDonald_Barron_Log_Concave_MSL_2025_submission.pdf)
