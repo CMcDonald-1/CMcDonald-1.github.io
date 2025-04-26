@@ -57,7 +57,7 @@ I have also had the opportunity to collaborate on several data science projects.
 
 ### Dissertations
 
-* ***McDonald, Curtis James***. *Computation and Estimation for Neural Networks via Log-Concave Coupling*. Diss. Yale University, Department of Statistics and Data Science, 2025. [Link](https://github.com/CMcDonald-1/CMcDonald-1.github.io/blob/master/assets/pdf/Disseration_submitted_March_20.pdf).
+* ***McDonald, Curtis James***. *Computation and Estimation for Neural Networks via Log-Concave Coupling*. Diss. Yale University, Department of Statistics and Data Science, 2025. [Link](https://cmcdonald-1.github.io/assets/pdf/Disseration_submitted_March_20.pdf).
 
 * ***Mcdonald, Curtis James***. *Filter Stability, Observability and Robustness for Partially Observed Stochastic Dynamical Systems*. Diss. Queen's University (Canada), 2019. [Link](https://qspace.library.queensu.ca/handle/1974/26466)
 
