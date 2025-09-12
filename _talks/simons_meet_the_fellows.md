@@ -24,4 +24,4 @@ Under such a structure, a sample of the auxiliary random variable from its margi
 efficiently by traditional MCMC methods such as Langevin Diffusion. This produces an equivalent sample of the target variable from its original target density, while only having to sample from 
 log-concave densities in each step.
 
-Slideshow: [More information here](/assets/pdf/test_pres_ISIT.pdf)
+Slideshow: [More information here](/assets/pdf/meet_the_fellows_c_mcdonald.pdf)
