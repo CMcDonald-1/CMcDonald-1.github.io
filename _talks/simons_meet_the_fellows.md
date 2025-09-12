@@ -2,7 +2,7 @@
 title: "Sampling Algorithms for Machine Learning with Auxiliary Random Variables and Diffusion Models"
 collection: talks
 type: "Talk"
-permalink: /talks/isit_2024-talk
+permalink: /talks/simons_meet_the_fellows
 venue: "Simons Institute, UC Berkeley"
 date: 2025-09-12
 location: "Berkeley, California, USA"
