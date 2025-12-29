@@ -22,8 +22,5 @@ For more information, please see my [Publications](https://cmcdonald-1.github.io
 
 # Upcoming News
 
-* I will be graduating in May 2025 and will be on the academic job market for positions beginning September 2025. I am interested in post doc positions involving research in statistical learning theory, sampling methods, diffusion models, and Bayesian statistics.
-* I recently presented my latest research at the 2024 International Symposium on Information Theory in Athens, Greece which can be found [here](https://arxiv.org/abs/2407.18802).
-
 
 
