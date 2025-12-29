@@ -39,7 +39,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "curtis.mcdonald@yale.edu"
+    email                : "c.mcdonald.simons@berkeley.edu"
   generatedFields:
     date:
       type               : "date"
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Curtis McDonald"
   avatar           : "crop_v3.JPG"
-  bio              : "PhD Student at Yale University"
-  location         : "New Haven, CT"
+  bio              : "Postdoctoral Researcher at Simons Institute, UC Berkeley"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2GhSWEgAAAAJ&hl=en&oi=ao"
-  email            : "curtis.mcdonald@yale.edu"
+  email            : "c.mcdonald.simons@berkeley.edu"
   researchgate     :  
   uri              :
   bitbucket        :
