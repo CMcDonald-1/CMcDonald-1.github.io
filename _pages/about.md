@@ -17,7 +17,7 @@ The main theme of my research has been the convergence behaviour of stochastic p
 More recently, I am interested in mixing time guarantees of sampling algorithms for multi modal and non-log concave target densities. What methods are most effective to produce samples from such difficult densities? Traditional MCMC methods based on time invariant local likelihood updates can have difficulty exploring the full state space and can get trapped in local modes of the log likelihood for long periods of time. Time varying transition rules, annealing, auxiliary random variables, and score-based methods all present interesting alternatives to produce samples for such densities beyond traditional MCMC.
 
 
-For more information, please see my [Publications](https://cmcdonald-1.github.io/publications/) page, [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2022.pdf), or [LinkedIN](https://www.linkedin.com/in/curtis-mcdonald-010a63254/) profile.
+For more information, please see my [Publications](https://cmcdonald-1.github.io/publications/) page, [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2026_academic_v2.pdf), or [LinkedIN](https://www.linkedin.com/in/curtis-mcdonald-010a63254/) profile.
 
 # Upcoming News
 
