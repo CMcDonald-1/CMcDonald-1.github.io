@@ -19,7 +19,7 @@ I have also had the opportunity to collaborate on several applied data science p
 
 * ***McDonald, C.*** *Technical Note on Relating Scores of Tilted Distributions*. April, 2026. [Link](https://arxiv.org/abs/2604.27196)
 
-* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions*. May, 2025. [Link](https://arxiv.org/abs/2411.17667) (Provisionally accepted with revision in Mathematical Statistics and Learning, 2026).
+* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions*. May, 2025. [Link](https://arxiv.org/abs/2411.17667) (Accepted to Mathematical Statistics and Learning, July 2026).
 
 ### Journal Articles
 
