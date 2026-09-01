@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am currently a postdoctoral researcher in the Machine Learning pod at the Simons Institute at UC Berkeley where I am hosted by Peter Bartlett. My research focuses on sampling algorithms, optimization of neural networks, and Markov Chain Monte Carlo (MCMC). I received my undergraduate and master's degrees in Applied Mathematics and Engineering from Queen’s University. I received my PhD in Statistics and Data Science from Yale University in 2025 advised by Andrew Barron.
+I am currently a postdoctoral researcher in the Machine Learning pod at the Simons Institute at UC Berkeley where I am hosted by Peter Bartlett and Bin Yu. My research focuses on sampling algorithms, optimization of neural networks, and Markov Chain Monte Carlo (MCMC). I received my undergraduate and master's degrees in Applied Mathematics and Engineering from Queen’s University. I received my PhD in Statistics and Data Science from Yale University in 2025 advised by Andrew Barron.
 
 The main theme of my research has been the convergence behaviour of stochastic processes. In my early research, this focused on filter stability for Hidden Markov Models (HMM) and applications to robust stochastic control. Namely, given bad prior information can an agent still learn an accurate posterior on the hidden state of a system and use this to make good control decisions.
 
