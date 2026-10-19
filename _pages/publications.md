@@ -19,11 +19,13 @@ I have also had the opportunity to collaborate on several applied data science p
 
 ### Preprints
 
+* ***McDonald, C.***, Rojas, K., Tao, M., Bartlett, P. *Improving score-based sampling via affine post-processing*. Under Review (2026). [Link](https://arxiv.org/abs/2610.04773)
+
 * ***McDonald, C.*** *Technical Note on Relating Scores of Tilted Distributions*. April, 2026. [Link](https://arxiv.org/abs/2604.27196)
 
-* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions*. May, 2025. [Link](https://arxiv.org/abs/2411.17667) (Accepted to Mathematical Statistics and Learning, July 2026).
-
 ### Journal Articles
+
+* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Log-Concave Coupling*. Math. Stat. Learn. August, 2026. published online first. DOI 10.4171/MSL/59 [Link](https://ems.press/journals/msl/articles/14299977)
 
 * ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control. vol. 69, no. 5, pp. 2931-2946, May 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10209206) 
 
@@ -33,7 +35,9 @@ I have also had the opportunity to collaborate on several applied data science p
 
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. *Two-Way Gaussian Networks with a Jammer and Decentralized Control*. IEEE Transactions on Control of Network Systems. vol. 7, no. 1, pp. 446-457, March 2020. [Link](https://ieeexplore.ieee.org/document/8737761)
 
-### Conference Papers
+### Workshop and Conference Papers
+
+* Dern, N., Mazioud, S., Heiss, J., Ghosh, A., ***McDonald, C.***, Clara, G., Yu, B. (2026) *Tracking Training Phases in Compositional Learning with Task-Agnostic Measures*. CompLearn 2026 Workshop at the International Conference on Machine Learning (ICML). [Link](https://openreview.net/forum?id=tNWw6sXmwP)
 
 * ***McDonald, C.***, Barron, A. (2024). *Log-Concave Coupling for Sampling Neural Net Posteriors*. 2024 IEEE International Symposium on Information Theory (ISIT). [Link](https://arxiv.org/abs/2407.18802).
 
