@@ -4,14 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Overview
+### MCMC For Machine Learning
+I am interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. This converts a non-convex optimization problem into a non-log concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. Key quantities to understand in this context are the computational complexity of sampling algorithms, and bounds on the predicitive ability of posterior estimators. Designing and understanding effective MCMC methods for complex machine learning models can solve the computational limitations that hold back the practical use of Bayesian methods, and also shed light on the performance of closely related random optimization algorithms like stochastic gradient descent which are not fully understood.
 
-This page contains a list of my publications. My early work focused on stochastic control theory and observability of Hidden Markov Models. Namely, given “bad” initial information, can a decision maker correct this mistake with the arrival of new information and make good control decisions after enough observation of the system. This topic relates to filter stability and robust control.
+### Accuracy of Diffusion Models
+Generative models are increasingly applied in agentic AI systems which can have impacts on real world processes outside themselves, but their sampling errors are not well understood. This can lead to mode-collapse, reward hacking, and other mis-aligned behaviour. My research into diffusion models aims to improve their sampling accuracy with better score estimators and where possible replacing intractable terms with closed form expressions derived from symmetries of the diffusion process.
 
-In my recent work, I have continued in the vein of stochastic processes, but I am now more interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. This converts a non-convex optimization problem into a non-log concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. Key quantities to understand in this context are the computational complexity of sampling algorithms, and bounds on the predicitive ability of posterior estimators. Designing and understanding effective MCMC methods for complex machine learning models can solve the computational limitations that hold back the practical use of Bayesian methods, and also shed light on the performance of closely related random optimization algorithms like stochastic gradient descent which are not fully understood.
+### Stochastic Control
+My work in stochastic control focuses on filter stability and robust control for Hidden Markov Models. Namely, given “bad” initial information, can a decision maker correct this mistake with the arrival of new information and make good control decisions after enough observation of the system.
 
-Equally important is to understand the sampling error of generative diffusion models, especially as they are applied in agentic AI models which can have impacts on real world systems outside themselves with tool access. My research into diffusion models aims to improve their sampling accuracy with better score estimators and where possible replacing intractable terms with closed form expressions derived from symmetries of the diffusion process.
-
+### Applied Data Science
 I have also had the opportunity to collaborate on several applied data science projects with colleagues in different fields ranging from social media governance, natural language processing, and sports medicine.
 
 
