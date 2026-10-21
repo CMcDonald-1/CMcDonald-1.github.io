@@ -6,7 +6,7 @@ author_profile: true
 ## Research Areas
 
 ### MCMC For Machine Learning
-I am interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. This converts a non-convex optimization problem into a non-log concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. 
+I am interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. This converts a non-convex optimization problem into a non-log-concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. 
 
 Key quantities to understand in this context are the computational complexity of sampling algorithms, and bounds on the predictive ability of posterior estimators. Designing and understanding effective MCMC methods for complex machine learning models can solve the computational limitations that hold back the practical use of Bayesian methods, and also shed light on the performance of closely related random optimization algorithms like stochastic gradient descent.
 
