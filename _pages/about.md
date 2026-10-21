@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 <div class="notice--info" markdown="1">
-**Research keywords**
-
-**Monte Carlo and Sampling** · **Diffusion and Generative Models** · **Learning Theory** · **Stochastic Processes and Filtering**
+  
+**Monte Carlo and Sampling** | **Diffusion and Generative Models** | **Learning Theory** | **Stochastic Processes and Filtering**
 </div>
 
 # About
