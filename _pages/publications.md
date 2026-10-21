@@ -3,12 +3,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Research Areas
 
 ### MCMC For Machine Learning
-I am interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. This converts a non-convex optimization problem into a non-log concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. Key quantities to understand in this context are the computational complexity of sampling algorithms, and bounds on the predicitive ability of posterior estimators. Designing and understanding effective MCMC methods for complex machine learning models can solve the computational limitations that hold back the practical use of Bayesian methods, and also shed light on the performance of closely related random optimization algorithms like stochastic gradient descent which are not fully understood.
+I am interested in Markov Chain Monte Carlo (MCMC), optimal transport, and generative models- various methods to produce data from a given distribution. Ultimately, I would like to apply a stochastic approach to train neural networks not using back propagation but treating the parameters as a sampling problem. This converts a non-convex optimization problem into a non-log concave sampling problem, which has more freedom to explore the state space and not get stuck in local minima. 
+
+Key quantities to understand in this context are the computational complexity of sampling algorithms, and bounds on the predictive ability of posterior estimators. Designing and understanding effective MCMC methods for complex machine learning models can solve the computational limitations that hold back the practical use of Bayesian methods, and also shed light on the performance of closely related random optimization algorithms like stochastic gradient descent which are not fully understood.
 
 ### Accuracy of Diffusion Models
-Generative models are increasingly applied in agentic AI systems which can have impacts on real world processes outside themselves, but their sampling errors are not well understood. This can lead to mode-collapse, reward hacking, and other mis-aligned behaviour. My research into diffusion models aims to improve their sampling accuracy with better score estimators and where possible replacing intractable terms with closed form expressions derived from symmetries of the diffusion process.
+Generative models are increasingly applied in agentic AI systems which can have impacts on real world processes outside themselves, but their sampling errors are not well understood. This can lead to memorization, reward hacking, and other mis-aligned behaviour. My research into diffusion models aims to improve their sampling accuracy with better score estimators and where possible replacing intractable terms with closed form expressions derived from symmetries of the diffusion process. Ultimately, I would like to carry the guarantees of MCMC mixing theory into the setting where diffusion models succeed in practice, and establishing the statistical-computational tradeoffs of these modern methods.
 
 ### Stochastic Control
 My work in stochastic control focuses on filter stability and robust control for Hidden Markov Models. Namely, given “bad” initial information, can a decision maker correct this mistake with the arrival of new information and make good control decisions after enough observation of the system.
@@ -31,9 +34,9 @@ I have also had the opportunity to collaborate on several applied data science p
 
 * ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control. vol. 69, no. 5, pp. 2931-2946, May 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10209206) 
 
-* ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. Siam Journal on Control and Optimization. vol 60, issue 22 . April 2022. [Link](https://epubs.siam.org/doi/abs/10.1137/21M1417442)
+* ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. SIAM Journal on Control and Optimization. vol 60, issue 22 . April 2022. [Link](https://epubs.siam.org/doi/abs/10.1137/21M1417442)
 
-* ***McDonald, C***., Yuksel, S. *Exponential filter stability via Dobrushin's coeffcient*. Electronic Communications in Probability. vol 20, no. 53. pp. 1-13. August 2020. [Link](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-25/issue-none/Exponential-filter-stability-via-Dobrushins-coefficient/10.1214/20-ECP333.full)
+* ***McDonald, C***., Yuksel, S. *Exponential filter stability via Dobrushin's coefficient*. Electronic Communications in Probability. vol 20, no. 53. pp. 1-13. August 2020. [Link](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-25/issue-none/Exponential-filter-stability-via-Dobrushins-coefficient/10.1214/20-ECP333.full)
 
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. *Two-Way Gaussian Networks with a Jammer and Decentralized Control*. IEEE Transactions on Control of Network Systems. vol. 7, no. 1, pp. 446-457, March 2020. [Link](https://ieeexplore.ieee.org/document/8737761)
 
@@ -69,7 +72,7 @@ I have also had the opportunity to collaborate on several applied data science p
 
 * ***McDonald, Curtis James***. *Computation and Estimation for Neural Networks via Log-Concave Coupling*. Diss. Yale University, Department of Statistics and Data Science, 2025. [Link](https://cmcdonald-1.github.io/assets/pdf/Disseration_submitted_March_20.pdf).
 
-* ***Mcdonald, Curtis James***. *Filter Stability, Observability and Robustness for Partially Observed Stochastic Dynamical Systems*. Diss. Queen's University (Canada), 2019. [Link](https://qspace.library.queensu.ca/handle/1974/26466)
+* ***McDonald, Curtis James***. *Filter Stability, Observability and Robustness for Partially Observed Stochastic Dynamical Systems*. Diss. Queen's University (Canada), 2019. [Link](https://qspace.library.queensu.ca/handle/1974/26466)
 
 
 
