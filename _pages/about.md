@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 <div class="notice--info" markdown="1">
 **Research keywords**
 
-Monte Carlo and sampling · Diffusion and generative models · Learning theory · Stochastic processes and filtering
+**Monte Carlo and Sampling** · **Diffusion and Generative Models** · **Learning Theory** · **Stochastic Processes and Filtering**
 </div>
+
+# About
+
+
 
 I am currently a postdoctoral researcher at the Simons Institute at UC Berkeley where I am hosted by [Peter Bartlett](https://people.eecs.berkeley.edu/~bartlett/) and [Bin Yu](https://binyu.stat.berkeley.edu/), affiliated with the [Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod) and the [Berkeley Statistical Machine Learning Group](https://statml.berkeley.edu/). My research focuses on diffusion models, optimization of neural networks, and Markov Chain Monte Carlo (MCMC). I received my undergraduate and master's degrees in [Applied Mathematics and Engineering](https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/mthe) from Queen’s University advised by [Serdar Y&uuml;ksel](https://serdar-yuksel.github.io/). I received my PhD in [Statistics and Data Science](https://statistics.yale.edu/) from Yale University in 2025 advised by [Andrew Barron](http://www.stat.yale.edu/~arb4/).
 
