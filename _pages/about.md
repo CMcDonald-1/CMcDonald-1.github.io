@@ -19,7 +19,7 @@ I am a postdoctoral researcher at the [Simons Institute](https://simons.berkeley
 
 The main theme of my research is the convergence behaviour of stochastic processes: how error propagates through a random system, how quickly a system converges to its invariant distribution, and the properties of this distribution in downstream applications. Recently I have focused on sampling from multimodal and non-log-concave distributions, where traditional MCMC methods based on time invariant local likelihood updates can have difficulty exploring the full state space. Time varying transition rules, annealing, auxiliary random variables, and diffusion models all present interesting alternatives to produce samples for such densities beyond traditional MCMC.  Earlier work addressed filter stability in hidden Markov models and its applications to robust stochastic control. I am also interested in applications of generative models in the physical sciences and to AI safety.
 
-I currently co-organize the [ML and AI Theory Seminar](https://simons.berkeley.edu/events/ml-ai-theory-seminar-0) and reading group.
+I co-organize the [ML and AI Theory Seminar](https://simons.berkeley.edu/events/ml-ai-theory-seminar-0) and reading group.
 
 For more information, please see my [Publications](https://cmcdonald-1.github.io/publications/) page, [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2026_academic_v2.pdf), or [LinkedIN](https://www.linkedin.com/in/curtis-mcdonald-010a63254/) profile.
 
