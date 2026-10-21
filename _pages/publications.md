@@ -14,7 +14,7 @@ Key quantities to understand in this context are the computational complexity of
 Generative models are increasingly applied in agentic AI systems which can have impacts on real world processes outside themselves, but their sampling errors are not well understood. This can lead to memorization, reward hacking, and other mis-aligned behaviour. My research into diffusion models aims to improve their sampling accuracy with better score estimators and where possible replacing intractable terms with closed form expressions derived from symmetries of the diffusion process. Ultimately, I would like to carry the guarantees of MCMC mixing theory into the setting where diffusion models succeed in practice, and establishing the statistical-computational tradeoffs of these modern methods.
 
 ### Stochastic Control
-My work in stochastic control focuses on filter stability and robust control for Hidden Markov Models. Namely, given “bad” initial information, can a decision maker correct this mistake with the arrival of new information and make good control decisions after enough observation of the system.
+My work in stochastic control focuses on filter stability and robust control for hidden Markov models. Namely, given “bad” initial information, can a decision maker correct this mistake with the arrival of new information and make good control decisions after enough observation of the system.
 
 ### Applied Data Science
 I have also had the opportunity to collaborate on several applied data science projects with colleagues in different fields ranging from social media governance, natural language processing, and sports medicine.
