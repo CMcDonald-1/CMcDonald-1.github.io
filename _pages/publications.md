@@ -21,16 +21,19 @@ I have also had the opportunity to collaborate on several applied data science p
 
 
 ## Publications
+\* Select Publications
 
 ### Preprints
 
-* ***McDonald, C.***, Rojas, K., Tao, M., Bartlett, P. *Improving score-based sampling via affine post-processing*. Under Review (2026). [Link](https://arxiv.org/abs/2610.04773)
+* \* ***McDonald, C.***, Bartlett, P. *Internal Guidance as a Sampling Method for Tilted Diffusion Models*. Under Review (2026). [Link](https://arxiv.org/abs/2610.29086)
+
+* \* ***McDonald, C.***, Rojas, K., Tao, M., Bartlett, P. *Improving score-based sampling via affine post-processing*. Under Review (2026). [Link](https://arxiv.org/abs/2610.04773)
 
 * ***McDonald, C.*** *Technical Note on Relating Scores of Tilted Distributions*. April, 2026. [Link](https://arxiv.org/abs/2604.27196)
 
 ### Journal Articles
 
-* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Log-Concave Coupling*. Math. Stat. Learn. August, 2026. published online first. DOI 10.4171/MSL/59 [Link](https://ems.press/journals/msl/articles/14299977)
+* \* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Log-Concave Coupling*. Math. Stat. Learn. August, 2026. published online first. DOI 10.4171/MSL/59 [Link](https://ems.press/journals/msl/articles/14299977)
 
 * ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control. vol. 69, no. 5, pp. 2931-2946, May 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10209206) 
 
