@@ -7,6 +7,7 @@ author_profile: true
 
 ## Organizing
 
+- **Founder and Facilitator**, Mathematical Foundations of Diffusion Models Reading Group, UC Berkeley (2026)
 - **Organizer**, Machine Learning Theory Reading Group, Simons Institute, UC Berkeley (2026)
 - **Organizing Committee**, Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning, Yale Institute for Foundations of Data Science (2024)
 - **Poster Selection Committee**, Recent Advances and Future Directions for Sampling, Yale Institute for Foundations of Data Science (2024)
