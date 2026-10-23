@@ -21,7 +21,7 @@ The main theme of my research is the convergence behaviour of stochastic process
 
 I co-organize the [ML and AI Theory Seminar](https://simons.berkeley.edu/events/ml-ai-theory-seminar-0) and reading group.
 
-For more information, please see my [Publications](https://cmcdonald-1.github.io/publications/) page, [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2026_academic_v2.pdf), or [LinkedIN](https://www.linkedin.com/in/curtis-mcdonald-010a63254/) profile.
+For more information, please see my [Publications](https://cmcdonald-1.github.io/publications/) page, [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2026_academic_v4a.pdf), or [LinkedIn](https://www.linkedin.com/in/curtis-mcdonald-010a63254/) profile.
 
 # Upcoming News
 
