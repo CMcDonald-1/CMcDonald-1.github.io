@@ -21,7 +21,7 @@ The main theme of my research is the convergence behaviour of stochastic process
 
 I co-organize the [ML and AI Theory Seminar](https://simons.berkeley.edu/events/ml-ai-theory-seminar-0) and reading group.
 
-I co-founded and facilitate the [Mathematical foundations of diffusion models](https://cmcdonald-1.github.io/diffusion-models-reading-group/) reading group, a series of student run introductory lectures for graduate students new to the area.
+I co-founded and facilitate the [Mathematical Foundations of Diffusion Models](https://cmcdonald-1.github.io/diffusion-models-reading-group/) reading group, a series of student run introductory lectures for graduate students new to the area.
 
 For more information, please see my [Publications](https://cmcdonald-1.github.io/publications/) page, [CV](https://cmcdonald-1.github.io/assets/pdf/CV_2026_academic_v4a.pdf), or [LinkedIn](https://www.linkedin.com/in/curtis-mcdonald-010a63254/) profile.
 
