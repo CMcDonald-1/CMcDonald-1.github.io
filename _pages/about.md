@@ -27,6 +27,6 @@ For more information, please see my [Publications](https://cmcdonald-1.github.io
 
 # Upcoming News
 
-* I am currently on the academic job market interested in Assistant Professor positions beginning September 2027 in Statistics, Computer Science, and Engineering departments with a focus on stochastic processes and machine learning.
+* I am currently on the academic job market interested in Assistant Professor positions beginning September 2027 in Mathematics, Statistics, Computer Science, and Engineering departments with a focus on stochastic processes and machine learning.
 
 
