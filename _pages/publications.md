@@ -33,13 +33,13 @@ I have also had the opportunity to collaborate on several applied data science p
 
 ### Journal Articles
 
-* \* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Log-Concave Coupling*. Math. Stat. Learn. August, 2026. published online first. DOI 10.4171/MSL/59 [Link](https://ems.press/journals/msl/articles/14299977)
+* \* ***McDonald, C.***, Barron, A. *Rapid Bayesian Computation and Estimation for Neural Networks via Log-Concave Coupling*.  Mathematical Statistics and Learning, 9(3):199–246, 2026. DOI 10.4171/MSL/59 DOI 10.4171/MSL/59 [Link](https://ems.press/journals/msl/articles/14299977)
 
 * ***McDonald, C.***, Yuksel, S. *Stochastic Observability and Filter Stability under Several Criteria*. IEEE Trans. Automatic Control. vol. 69, no. 5, pp. 2931-2946, May 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10209206) 
 
-* ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. SIAM Journal on Control and Optimization. vol 60, issue 22 . April 2022. [Link](https://epubs.siam.org/doi/abs/10.1137/21M1417442)
+* ***McDonald, C.***, Yuksel, S. *Robustness to incorrect priors and controlled filter stability in partially observed stochastic control*. SIAM Journal on Control and Optimization. vol 60, issue 2 . April 2022. [Link](https://epubs.siam.org/doi/abs/10.1137/21M1417442)
 
-* ***McDonald, C***., Yuksel, S. *Exponential filter stability via Dobrushin's coefficient*. Electronic Communications in Probability. vol 20, no. 53. pp. 1-13. August 2020. [Link](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-25/issue-none/Exponential-filter-stability-via-Dobrushins-coefficient/10.1214/20-ECP333.full)
+* ***McDonald, C.***, Yuksel, S. *Exponential filter stability via Dobrushin's coefficient*. Electronic Communications in Probability. vol 25, no. 53. pp. 1-13. August 2020. [Link](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-25/issue-none/Exponential-filter-stability-via-Dobrushins-coefficient/10.1214/20-ECP333.full)
 
 * ***McDonald, C.***, Alajaji, F., Yuksel, S. *Two-Way Gaussian Networks with a Jammer and Decentralized Control*. IEEE Transactions on Control of Network Systems. vol. 7, no. 1, pp. 446-457, March 2020. [Link](https://ieeexplore.ieee.org/document/8737761)
 
@@ -56,15 +56,15 @@ I have also had the opportunity to collaborate on several applied data science p
   
 * ***McDonald, C.***, Yuksel, S. (2018) *Stability of Non-Linear Filters, Observability and Relative Entropy*. 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton). pp 110 - 114. [Link](https://proceedings.allerton.csl.illinois.edu/2018/)
 
-* ***McDonald, C.***, Alajaji, F., Yuksel, S. (2018) *Two-Way Gaussian Channels with an Intelligent Jammer*. 2018 Annual American Control Conference (ACC). pp. 1784- 1789. [Link](https://ieeexplore.ieee.org/document/8430803)
+* ***McDonald, C.***, Alajaji, F., Yuksel, S. (2018) *Two-Way Gaussian Channels with an Intelligent Jammer*. 2018 Annual American Control Conference (ACC). pp. 1784-1789. [Link](https://ieeexplore.ieee.org/document/8430803)
 
 ### Data Science Applications
 
-* Sieberer J. M., Park N., Manafzadeh A. R., Desroches S. T., Brennan K., ***McDonald C.***, Tommasini S. M., Wiznia D. H., Fulkerson J. P. *Visualization of Trochlear Dysplasia Using 3-Dimensional Curvature Analysis in Patients With Patellar Instability Facilitates Understanding and Improves the Reliability of the Entry Point to Trochlea Groove Angle*. Arthroscopy, Sports Medicine, and Rehabilitation. September, 2024.[Link](https://www.sciencedirect.com/science/article/pii/S2666061X24001470)
+* Sieberer J. M., Park N., Manafzadeh A. R., Desroches S. T., Brennan K., ***McDonald C.***, Tommasini S. M., Wiznia D. H., Fulkerson J. P. *Visualization of Trochlear Dysplasia Using 3-Dimensional Curvature Analysis in Patients With Patellar Instability Facilitates Understanding and Improves the Reliability of the Entry Point to Trochlea Groove Angle*. Arthroscopy, Sports Medicine, and Rehabilitation. September, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S2666061X24001470)
 
 * Sieberer J. M., Park N., Rancu A. L., Desroches S. T., ***McDonald C.***, Manafzadeh A. R., Tommasini S. M., Wiznia D. H., Fulkerson J. P. *Analyzing Alignment Error in Tibial Tuberosity–Trochlear Groove Distance in Clinical Scans Using 2D and 3D Methods*. The American Journal of Sports Medicine. September, 2024. [Link](https://journals.sagepub.com/doi/abs/10.1177/03635465241279852) 
 
-* Beitler B. G., Sieberer J., Islam W., ***McDonald C.***, Yu K., Tommasini S. M., Fulkerson J. P. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S074980632400308)
+* Beitler B. G., Sieberer J., Islam W., ***McDonald C.***, Yu K., Tommasini S. M., Fulkerson J. P. *The Morphologic Patella Entry Point Into The Proximal Trochlea Is More Lateral in Recurrent Dislocators Than Controls as Measured by Entry Point-Trochlear Groove Angle*. Arthroscopy: The Journal of Arthroscopic and Related Surgery. May, 2024. [Link](https://pubmed.ncbi.nlm.nih.gov/38697328/)
 
 
 * Kim, J., ***McDonald, C.***, Meosky, P., Katsaros, M., Tyler, T. *Promoting Online Civility Through Platform Architecture*. Journal of Online Trust and Safety. vol 1, issue 4. September 2022. [Link](https://tsjournal.org/index.php/jots/article/view/54)
