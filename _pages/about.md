@@ -27,7 +27,7 @@ For more information, please see my [Publications](https://cmcdonald-1.github.io
 
 # News
 
-* **Oct 2026:** A workshop poster on ["Internal Guidance"](https://openreview.net/forum?id=EO4HmtztmI](https://arxiv.org/abs/2610.29086), a method for diffusion model guidance using closed-form expressions, will appear at [Frontiers in Statistical Machine Learning (FSML)](https://fsml-ims-workshop.org/) on December 14 in Split, Croatia.
+* **Oct 2026:** A workshop poster on ["Internal Guidance"](https://arxiv.org/abs/2610.29086), a method for diffusion model guidance using closed-form expressions, will appear at [Frontiers in Statistical Machine Learning (FSML)](https://fsml-ims-workshop.org/) on December 14 in Split, Croatia.
 
 * I am currently on the academic job market interested in Assistant Professor positions beginning September 2027 in Mathematics, Statistics, Computer Science, and Engineering departments with a focus on stochastic processes and machine learning.
 
